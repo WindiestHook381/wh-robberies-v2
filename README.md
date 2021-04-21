@@ -39,7 +39,7 @@ Hopefully this explains it better, I can make a video tutorial if you think it w
 
 
 ## Support
-I will try and be as active as I can on the FiveM forum however you may get a faster response in my discord or get help from any other developers around https://discord.gg/rJ3cb8n. I will also post all my releases and updates for any scripts there.
+I will try and be as active as I can on the FiveM forum however you may get a faster response in my discord or get help from any other developers around https://discord.gg/Fa5dtR5. I will also post all my releases and updates for any scripts there.
 
 ## Credits
 @Danny3 for the outlaw alert.
