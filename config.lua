@@ -11,7 +11,7 @@ Config.Cameras = true --If you are using st-cctv to notify police of robbery. On
 Config.Control = 48 -- Button to press to rob a location (Remember to change the 3d text in client.lua) Default 48 (z).
 
 
-Config.EnableItemTrigger = true -- Want to start the safe cracking by using an item by the cash registers and safes? If false, 3D text will be displayed.
+Config.EnableItemTrigger = false -- Want to start the safe cracking by using an item by the cash registers and safes? If false, 3D text will be displayed.
 Config.LockpickItem = 'lockpick' -- The database name for the item to start cracking.
 
 
