@@ -37,7 +37,8 @@ Config.SafeMax = 1000
 Config.VaultMin = 15000
 Config.VaultMax = 100000
 
-Config.MoneyAccount = 'money' --Choose which accountthe stolen money goes into. money, black_money or bank.
+--Config.MoneyAccount = 'money' --Choose which accountthe stolen money goes into. money, black_money or bank.
+--Currently not working.
 
 Config.CashRegTimer = 2000 --Cooldown Timer for cash registers in seconds
 Config.SafeTimer = 3000 --Cooldown Timer for Safes (Back Rooms) in seconds
