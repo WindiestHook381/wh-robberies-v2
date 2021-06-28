@@ -25,7 +25,7 @@ AddEventHandler('wh-robberies:ReceiveMonies', function(check)
 
 	if check == true then
 		local amount = math.random(Config.CashRegMin,Config.CashRegMax)
-		xPlayer.addAccountMoney(Config.MoneyAccount, amount)
+		xPlayer.addMoney(amount)
 		TriggerClientEvent('mythic_notify:client:DoHudText', source, { type = 'success', text = 'Completed! You recieved $' .. amount})
 	end
 	
